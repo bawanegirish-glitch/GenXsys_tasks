@@ -1,6 +1,7 @@
-Title :- Responsive Landing Page Using HTML, CSS, JAVASCRIPT.
+TITLE :- Responsive Landing Page Using HTML, CSS, JAVASCRIPT.
 
 DISCRIPTION :-
+
 Task - 1 
 Hear, I have Created Responsive Landing Web Page Using HTML,CSS,Javascript.In the navigation section, I have created heading as portfolio.
 And In the navigation section, I created Home,About,Skills,Sevices And Contact.In the left side of the page I have written the related
