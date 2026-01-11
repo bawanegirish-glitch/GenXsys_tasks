@@ -1,3 +1,6 @@
+Title :- Responsive Landing Page Using HTML, CSS, JAVASCRIPT.
+
+DISCRIPTION :-
 Task - 1 
 Hear, I have Created Responsive Landing Web Page Using HTML,CSS,Javascript.In the navigation section, I have created heading as portfolio.
 And In the navigation section, I created Home,About,Skills,Sevices And Contact.In the left side of the page I have written the related
@@ -13,6 +16,8 @@ As we click inspect on our browser for mobile Responsiveness to apper of this la
 It is also Responsive for Ipads and desktop version. In the responsive mobile versions of this landing page , There it displays the
 bars icon and as we click on it , It displays Home,About,Skills,Services,Contact Sections.And as we Clicks on each of these sections,
 we scroll to the particular section,similarly as we reach at the last of the page , there we have up arrow button to go to the top of the page.
+
+SCREENSHOTS :-
 
 <img width="960" height="540" alt="Annotation 2026-01-10 203722" src="https://github.com/user-attachments/assets/db51b8e2-eb4f-49bb-9afd-0c4f3ed5430e" />
 <img width="960" height="540" alt="Annotation 2026-01-10 203857" src="https://github.com/user-attachments/assets/a914d180-9e2b-472a-9bdb-4a13286c0e70" />
